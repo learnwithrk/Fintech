@@ -1,0 +1,87 @@
+{
+ "id": "fintech-module-3",
+ "title": "3. Innovation and Disruption",
+ "subtitle": "Wealth management · Robo advisors · DeFi · Big data · Cryptocurrency · Blockchain",
+ "questions": [
+  {
+   "q": "The first step of the wealth management process is…",
+   "options": [
+    "Rebalancing",
+    "Client profiling",
+    "Execution",
+    "Monitoring"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Robo advisors mainly use…",
+   "options": [
+    "Algorithms",
+    "Branch staff",
+    "Cheques",
+    "Paper forms"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "DeFi operates through…",
+   "options": [
+    "Banks",
+    "Smart contracts",
+    "Brokers",
+    "Clearing houses"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which is NOT one of the 5 Vs of big data?",
+   "options": [
+    "Volume",
+    "Velocity",
+    "Veracity",
+    "Vulnerability"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bitcoin was introduced in…",
+   "options": [
+    "1999",
+    "2009",
+    "2015",
+    "2019"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A blockchain block is linked to the previous one by…",
+   "options": [
+    "Password",
+    "Hash",
+    "Cheque",
+    "Email"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Proof of Stake is a…",
+   "options": [
+    "Tax",
+    "Consensus mechanism",
+    "Wallet",
+    "Exchange"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "India's tax on virtual digital asset gains is…",
+   "options": [
+    "10%",
+    "20%",
+    "30%",
+    "Nil"
+   ],
+   "answer": 2
+  }
+ ]
+}

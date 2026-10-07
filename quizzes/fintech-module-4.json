@@ -1,0 +1,87 @@
+{
+ "id": "fintech-module-4",
+ "title": "4. FinTech Landscape",
+ "subtitle": "5G · Mobile apps · Cloud · Web 2.0 · AI/ML in fraud detection · API-driven banking",
+ "questions": [
+  {
+   "q": "A key benefit of 5G for FinTech is…",
+   "options": [
+    "Low latency",
+    "Paper statements",
+    "Higher branch cost",
+    "Cash handling"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "SaaS stands for…",
+   "options": [
+    "Software as a Service",
+    "System as a Standard",
+    "Storage as a Server",
+    "Secure as a Service"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "React and Node.js are…",
+   "options": [
+    "JavaScript technologies",
+    "Banks",
+    "Regulators",
+    "Cryptocurrencies"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "ML fraud detection works by flagging…",
+   "options": [
+    "Anomalies",
+    "Holidays",
+    "Interest rates",
+    "Cheques"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "API stands for…",
+   "options": [
+    "Applied Payment Interface",
+    "Application Programming Interface",
+    "Automatic Portfolio Index",
+    "Annual Premium Instrument"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Banking-as-a-Service is an example of…",
+   "options": [
+    "API-driven banking",
+    "Barter",
+    "Cash banking",
+    "Manual KYC"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Web 2.0 is characterised by…",
+   "options": [
+    "Static pages",
+    "User-generated interactive content",
+    "Offline apps",
+    "Telegraph"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which is a cloud service model?",
+   "options": [
+    "IaaS",
+    "UPI",
+    "AML",
+    "NEFT"
+   ],
+   "answer": 0
+  }
+ ]
+}

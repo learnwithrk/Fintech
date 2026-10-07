@@ -1,0 +1,87 @@
+{
+ "id": "fintech-module-2",
+ "title": "2. Digital Economy",
+ "subtitle": "India Stack · eKYC · Digital payments · Digital lending · Microfinance · Crowdfunding · DigiLocker case study",
+ "questions": [
+  {
+   "q": "India Stack's UPI layer provides…",
+   "options": [
+    "Identity",
+    "Payments",
+    "Documents only",
+    "Insurance"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Aadhaar is a…",
+   "options": [
+    "10-digit PAN",
+    "12-digit unique ID",
+    "16-digit card",
+    "8-digit code"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "eSign is legally valid under…",
+   "options": [
+    "Companies Act",
+    "IT Act, 2000",
+    "RBI Act",
+    "Banking Regulation Act"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which uses public-key cryptography?",
+   "options": [
+    "Digital Signature Certificate",
+    "Passbook",
+    "Cheque",
+    "Money order"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Peer-to-peer lending NBFCs are regulated by…",
+   "options": [
+    "SEBI",
+    "RBI",
+    "IRDAI",
+    "NPCI"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "SHG–Bank Linkage is associated with…",
+   "options": [
+    "Crowdfunding",
+    "Microfinance",
+    "Crypto",
+    "Robo advice"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Equity crowdfunding gives investors…",
+   "options": [
+    "Rewards only",
+    "Ownership stake",
+    "Donation receipts",
+    "Loans"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "DigiLocker documents have legal validity under…",
+   "options": [
+    "IT Rules, 2016",
+    "SEBI Act",
+    "FEMA",
+    "Income Tax Act"
+   ],
+   "answer": 0
+  }
+ ]
+}
