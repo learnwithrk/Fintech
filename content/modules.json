@@ -1,7 +1,0 @@
-[
- {"id":"1-fintech-eco-system","num":1,"title":"FinTech Eco System","meta":"Meaning · Evolution · Ecosystem players · Types · Arthashastra in FinTech","file":"content/m1.html","quiz":"fintech-module-1"},
- {"id":"2-digital-economy","num":2,"title":"Digital Economy","meta":"India Stack · eKYC · Digital payments · Lending · Microfinance · Crowdfunding · DigiLocker case study","file":"content/m2.html","quiz":"fintech-module-2"},
- {"id":"3-innovation-and-disruption","num":3,"title":"Innovation and Disruption","meta":"Wealth management · Robo advisors · DeFi · Big data · Cryptocurrency · Blockchain","file":"content/m3.html","quiz":"fintech-module-3"},
- {"id":"4-fintech-landscape","num":4,"title":"FinTech Landscape","meta":"5G · Mobile apps · Cloud · Web 2.0 · AI/ML in fraud detection · API-driven banking","file":"content/m4.html","quiz":"fintech-module-4"},
- {"id":"5-regulatory-and-compliance","num":5,"title":"Regulatory and Compliance","meta":"Regulation · RegTech · RBI Sandbox · AML · KYC · Tax issues","file":"content/m5.html","quiz":"fintech-module-5"}
-]
