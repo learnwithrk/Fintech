@@ -1,0 +1,38 @@
+{
+ "id": "4-fintech-landscape",
+ "title": "4. FinTech Landscape",
+ "subtitle": "5G · Mobile apps · Cloud · Web 2.0 · AI/ML in fraud detection · API-driven banking",
+ "subject": "FinTech",
+ "sections": [
+  {
+   "id": "s1",
+   "heading": "4.1 5G, Mobile Apps and Smartphones",
+   "html": "<p class=\"obj\"><b>Updated for Assessment Year 2026-27</b> (income of FY 2025-26, assessed under the Income-tax Act, 1961).</p>\n<p class=\"obj\">Objectives: understand the technologies powering modern FinTech and open banking.</p>\n<p>5G offers ultra-low latency (about 1 ms) and high speed, enabling real-time trading, biometric authentication and IoT payments. Smartphones with biometrics and NFC are the primary banking channel.</p>"
+  },
+  {
+   "id": "s2",
+   "heading": "4.2 Transforming Customer Experience",
+   "html": "<p>Personalised dashboards, chatbots, video KYC, voice banking and one-tap payments. <div class=\"ex\"><b>Example:</b> HDFC Bank's EVA chatbot answers queries instantly.</div></p>"
+  },
+  {
+   "id": "s3",
+   "heading": "4.3 Cloud Computing",
+   "html": "<p>On-demand computing with models IaaS, PaaS, SaaS. It offers elasticity and lower capex; RBI requires data localisation of payment data.</p>"
+  },
+  {
+   "id": "s4",
+   "heading": "4.4 Web 2.0, Rapid Web Design and JavaScript",
+   "html": "<p>Web 2.0 introduced interactive, user-generated content. Rapid design uses responsive frameworks (Bootstrap) and prototyping tools. JavaScript (React, Node.js) powers dynamic banking dashboards and real-time updates.</p>"
+  },
+  {
+   "id": "s5",
+   "heading": "4.5 AI and Machine Learning in FinTech",
+   "html": "<p>Applications: credit scoring, chatbots, algorithmic trading, underwriting. <b>Fraud detection:</b> ML models learn normal behaviour and flag anomalies.</p>\n<div class=\"ex\"><b>Example:</b> A card used in Chennai at 2 pm and in London at 2:10 pm is flagged and blocked automatically.</div>"
+  },
+  {
+   "id": "s6",
+   "heading": "4.6 API-driven Banking",
+   "html": "<p>An <b>API</b> (Application Programming Interface) lets systems exchange data securely. <b>Benefits:</b> faster integration, new revenue streams, better customer experience. <b>Trends:</b> open banking, Banking-as-a-Service, embedded finance, Account Aggregator framework.</p>"
+  }
+ ]
+}

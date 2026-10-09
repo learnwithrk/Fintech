@@ -1,0 +1,507 @@
+{
+ "id": "5-regulatory-and-compliance",
+ "title": "5. Regulatory and Compliance",
+ "subtitle": "Regulation · RegTech · RBI Sandbox · AML · KYC · Tax issues · Updated for AY 2026-27",
+ "questions": [
+  {
+   "q": "RegTech aims to…",
+   "options": [
+    "Automate compliance",
+    "Print currency",
+    "Set repo rate",
+    "Mine crypto"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The RBI Regulatory Sandbox was launched in…",
+   "options": [
+    "2009",
+    "2012",
+    "2019",
+    "2023"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "PMLA, 2002 deals with…",
+   "options": [
+    "Money laundering",
+    "Insurance",
+    "Consumer goods",
+    "Customs"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which is a stage of money laundering?",
+   "options": [
+    "Layering",
+    "Auditing",
+    "Budgeting",
+    "Listing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Suspicious transactions are reported to…",
+   "options": [
+    "FIU-IND",
+    "NPCI",
+    "UIDAI",
+    "SEBI"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "SEBI regulates…",
+   "options": [
+    "Securities markets",
+    "Payments systems",
+    "Insurance",
+    "Pensions"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "KYC means…",
+   "options": [
+    "Know Your Client/Customer",
+    "Keep Your Cash",
+    "Key Yield Computation",
+    "Know Your Credit"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The PM Jan Dhan Yojana targets…",
+   "options": [
+    "Financial inclusion",
+    "Crypto trading",
+    "Export credit",
+    "Stock listing"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The Reserve Bank of India was established in…",
+   "options": [
+    "1935",
+    "1947",
+    "1969",
+    "1991"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The Payment and Settlement Systems Act was passed in…",
+   "options": [
+    "2007",
+    "1934",
+    "2016",
+    "2023"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "RBI's payment aggregator guidelines were issued in…",
+   "options": [
+    "2002",
+    "1985",
+    "2020",
+    "2012"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "SEBI became a statutory body in…",
+   "options": [
+    "2007",
+    "1992",
+    "1935",
+    "2019"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "IRDAI regulates…",
+   "options": [
+    "Insurance",
+    "Securities",
+    "Pensions",
+    "Payments"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "IFSCA regulates financial services in…",
+   "options": [
+    "GIFT City (IFSC)",
+    "Stock markets only",
+    "Customs",
+    "Rural areas only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The IT Act that recognises electronic records was enacted in…",
+   "options": [
+    "2019",
+    "1960",
+    "2010",
+    "2000"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The DPDP Act, 2023 is built around…",
+   "options": [
+    "Consent-based data processing",
+    "Share pricing",
+    "Customs duty",
+    "Banking licences"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A typical RegTech use case is…",
+   "options": [
+    "Printing cheques",
+    "Automated transaction monitoring",
+    "Selling SIMs",
+    "Mining coins"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "SupTech refers to technology used by…",
+   "options": [
+    "Brokers only",
+    "Start-ups only",
+    "Regulators / supervisors",
+    "Customers"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which technologies power RegTech?",
+   "options": [
+    "Typewriters",
+    "AI, automation and data analytics",
+    "Telegraph",
+    "Fax"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A regulatory sandbox provides…",
+   "options": [
+    "A tax break",
+    "A court ruling",
+    "A controlled environment to test innovations",
+    "A permanent exemption"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "RBI's first sandbox cohort in 2019 focused on…",
+   "options": [
+    "Retail payments",
+    "Commodity trading",
+    "Insurance only",
+    "Real estate"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A later RBI sandbox theme was…",
+   "options": [
+    "Dairy farming",
+    "Telegraph",
+    "Cross-border payments",
+    "Gold coins"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "SEBI also operates a…",
+   "options": [
+    "Postal service",
+    "Regulatory sandbox framework",
+    "Currency printing press",
+    "Customs office"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "PM Jan Dhan Yojana was launched in…",
+   "options": [
+    "2005",
+    "2014",
+    "1991",
+    "2022"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The JAM trinity stands for…",
+   "options": [
+    "Jan Dhan, Aadhaar and Mobile",
+    "Jan Dhan, Agriculture, Mortgage",
+    "Jobs, Assets, Money",
+    "Jan, Aadhaar, Market"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Income earned in FY 2025-26 is assessed in which year?",
+   "options": [
+    "Assessment Year 2026-27",
+    "Assessment Year 2025-26",
+    "Tax Year 2025-26",
+    "Assessment Year 2027-28"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A major barrier to FinTech adoption is…",
+   "options": [
+    "Cheap data",
+    "Too many ATMs",
+    "Lack of trust and awareness",
+    "Excess literacy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The RBI controls inflation mainly through…",
+   "options": [
+    "Tax filing",
+    "Monetary policy tools such as the repo rate",
+    "Printing stock",
+    "Customs"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "The Income-tax Act, 2025 came into force on",
+   "options": [
+    "1 April 2026",
+    "1 April 2027",
+    "1 January 2026",
+    "1 April 2025"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "PMLA, 2002 aims to…",
+   "options": [
+    "Regulate mutual funds",
+    "Prevent money laundering",
+    "Tax salaries",
+    "Promote crypto"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "FIU-IND functions under the…",
+   "options": [
+    "RBI Board only",
+    "SEBI Board",
+    "Ministry of Health",
+    "Ministry of Finance"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A Cash Transaction Report is generally filed for cash transactions of…",
+   "options": [
+    "₹1,000",
+    "₹100",
+    "₹500",
+    "₹10 lakh or more in a month"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The first stage of money laundering is…",
+   "options": [
+    "Layering",
+    "Placement",
+    "Exit",
+    "Integration"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "FATF is the…",
+   "options": [
+    "Stock exchange",
+    "RBI wing",
+    "Indian tax body",
+    "Global AML and terror-financing standard setter"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "'Smurfing' in AML refers to…",
+   "options": [
+    "Filing returns",
+    "Printing notes",
+    "Breaking large sums into small deposits",
+    "Buying gold"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The single term that replaces 'previous year' and 'assessment year' in the Income-tax Act, 2025 is",
+   "options": [
+    "Fiscal Year",
+    "Return Year",
+    "Tax Year",
+    "Income Year"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "CDD stands for…",
+   "options": [
+    "Customer Due Diligence",
+    "Central Digital Document",
+    "Cash Deposit Declaration",
+    "Credit Debit Database"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Enhanced due diligence is applied to…",
+   "options": [
+    "Only banks",
+    "Only minors",
+    "All students",
+    "High-risk customers"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A PEP is a…",
+   "options": [
+    "Public Equity Plan",
+    "Primary Exchange Product",
+    "Payment Entry Point",
+    "Politically Exposed Person"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Income for AY 2026-27 is governed by which law?",
+   "options": [
+    "Income-tax Act, 2025",
+    "Income-tax Act, 1961",
+    "PMLA, 2002",
+    "Banking Regulation Act, 1949"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A 'beneficial owner' is…",
+   "options": [
+    "The bank manager",
+    "The auditor",
+    "The broker",
+    "The natural person who ultimately owns or controls"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "GST on most FinTech service fees is…",
+   "options": [
+    "0%",
+    "50%",
+    "5%",
+    "18%"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "For AY 2026-27, the tax rate on income from virtual digital assets is",
+   "options": [
+    "Nil",
+    "10% under Section 80C",
+    "30% under Section 115BBH",
+    "5%"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Crypto-asset transaction reporting by specified entities is provided under Section",
+   "options": [
+    "44AD",
+    "10(10D)",
+    "285BAA",
+    "80C"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "CRS is a framework for…",
+   "options": [
+    "Automatic exchange of financial account information",
+    "Credit scoring",
+    "Crypto pricing",
+    "Cash reserve"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The RBI Integrated Ombudsman Scheme was introduced in…",
+   "options": [
+    "1935",
+    "2000",
+    "2021",
+    "2008"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "CERT-In requires cyber incidents to be reported within…",
+   "options": [
+    "6 weeks",
+    "6 hours",
+    "60 days",
+    "6 months"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lending Service Providers (LSPs) work with…",
+   "options": [
+    "Municipal bodies",
+    "Customs",
+    "The Supreme Court",
+    "Regulated entities to source and service loans"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Grievance redressal in digital lending requires…",
+   "options": [
+    "No contact",
+    "A nodal grievance officer",
+    "Only a chatbot",
+    "Only a postal address"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Registered investment advisers in India are registered with…",
+   "options": [
+    "RBI",
+    "UIDAI",
+    "IRDAI",
+    "SEBI"
+   ],
+   "answer": 3
+  }
+ ]
+}
