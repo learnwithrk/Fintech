@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1-fintech-eco-system",
+    "title": "1. FinTech Eco System",
+    "subject": "FinTech",
+    "file": "reads/1-fintech-eco-system.json",
+    "sectionCount": 8
+  },
+  {
+    "id": "2-digital-economy",
+    "title": "2. Digital Economy",
+    "subject": "FinTech",
+    "file": "reads/2-digital-economy.json",
+    "sectionCount": 7
+  },
+  {
+    "id": "3-innovation-and-disruption",
+    "title": "3. Innovation and Disruption",
+    "subject": "FinTech",
+    "file": "reads/3-innovation-and-disruption.json",
+    "sectionCount": 6
+  },
+  {
+    "id": "4-fintech-landscape",
+    "title": "4. FinTech Landscape",
+    "subject": "FinTech",
+    "file": "reads/4-fintech-landscape.json",
+    "sectionCount": 6
+  },
+  {
+    "id": "5-regulatory-and-compliance",
+    "title": "5. Regulatory and Compliance",
+    "subject": "FinTech",
+    "file": "reads/5-regulatory-and-compliance.json",
+    "sectionCount": 6
+  }
+]

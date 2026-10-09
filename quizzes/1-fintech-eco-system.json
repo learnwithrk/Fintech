@@ -1,0 +1,507 @@
+{
+ "id": "1-fintech-eco-system",
+ "title": "1. FinTech Eco System",
+ "subtitle": "Meaning · Evolution · Ecosystem players · Types · Arthashastra in FinTech · Updated for AY 2026-27",
+ "questions": [
+  {
+   "q": "FinTech is best described as…",
+   "options": [
+    "Only mobile banking",
+    "Technology-enabled innovation in financial services",
+    "Government schemes",
+    "Stock trading only"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which phase introduced smartphones, UPI and Bitcoin?",
+   "options": [
+    "FinTech 1.0",
+    "FinTech 2.0",
+    "FinTech 3.0",
+    "None"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which ecosystem player frames rules and protects consumers?",
+   "options": [
+    "Venture capitalists",
+    "Regulators",
+    "Customers",
+    "Start-ups"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which is an example of InsurTech?",
+   "options": [
+    "Zerodha",
+    "PolicyBazaar",
+    "Razorpay",
+    "Aave"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kautilya's concept of 'kosha' relates to…",
+   "options": [
+    "Army",
+    "Treasury",
+    "Spies",
+    "Trade routes"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kautilya's detailed list of embezzlement methods maps to…",
+   "options": [
+    "Fraud detection and audit trails",
+    "Gaming apps",
+    "Social media",
+    "5G"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which is a challenge of FinTech?",
+   "options": [
+    "Lower cost",
+    "Cyber-security",
+    "Speed",
+    "Inclusion"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buy-Now-Pay-Later is a trend in…",
+   "options": [
+    "Payments/lending",
+    "Mining",
+    "Cloud design",
+    "Taxation only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The term FinTech is a blend of…",
+   "options": [
+    "Funds and Tokens",
+    "Fiscal and Trade",
+    "Fixed deposits and Taxes",
+    "Finance and Technology"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A defining characteristic of FinTech delivery is…",
+   "options": [
+    "Manual reconciliation only",
+    "Paper-based processing",
+    "Digital-first, app-based access",
+    "Mandatory branch visits"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The laying of the transatlantic telegraph cable in 1866 belongs to…",
+   "options": [
+    "FinTech 2.0",
+    "FinTech 4.0",
+    "FinTech 3.0",
+    "FinTech 1.0"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "ATMs, SWIFT and online banking belong to…",
+   "options": [
+    "FinTech 1.0",
+    "FinTech 3.0",
+    "FinTech 2.0",
+    "Pre-industrial finance"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "The event that accelerated FinTech 3.0 start-ups was the…",
+   "options": [
+    "Dot-com boom of 1999",
+    "Y2K scare",
+    "1991 liberalisation",
+    "2008 global financial crisis"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Razorpay is best classified as a…",
+   "options": [
+    "Stock exchange",
+    "Credit rating agency",
+    "Insurance regulator",
+    "Payment gateway company"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Zerodha is an example of a…",
+   "options": [
+    "Credit bureau",
+    "Payments bank",
+    "Discount broking / trading platform",
+    "Microfinance institution"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "NPCI's role in the ecosystem is to…",
+   "options": [
+    "Regulate securities markets",
+    "Audit commercial banks",
+    "Operate retail payment systems such as UPI",
+    "Issue banknotes"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Providers of cloud, AI and security infrastructure are called…",
+   "options": [
+    "Technology developers",
+    "Retail customers",
+    "Regulators",
+    "Rating agencies"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Venture capitalists contribute to the FinTech ecosystem by…",
+   "options": [
+    "Clearing cheques",
+    "Issuing licences",
+    "Funding early-stage start-ups",
+    "Setting monetary policy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Banks supply the FinTech ecosystem mainly with…",
+   "options": [
+    "Cryptocurrency",
+    "Cloud servers",
+    "Social media data",
+    "Licences, capital and customer trust"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "RegTech primarily serves the function of…",
+   "options": [
+    "Printing currency",
+    "Designing mobile games",
+    "Mining crypto",
+    "Automating regulatory compliance"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "PropTech applies technology to…",
+   "options": [
+    "Stock broking",
+    "Agriculture",
+    "Real estate",
+    "Insurance claims"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "WealthTech platforms mainly offer…",
+   "options": [
+    "Crop loans",
+    "Customs clearance",
+    "Toll collection",
+    "Investment and portfolio management"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A neobank is a…",
+   "options": [
+    "Digital-only bank without physical branches",
+    "Cooperative bank",
+    "Pawn shop",
+    "Foreign central bank"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A key merit of FinTech for the unbanked is…",
+   "options": [
+    "Paper documentation",
+    "Financial inclusion at low cost",
+    "Longer queues",
+    "Higher branch rent"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Limited internet access and digital skills create the…",
+   "options": [
+    "Liquidity trap",
+    "Rate cycle",
+    "Credit crunch",
+    "Digital divide"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Embedded finance means…",
+   "options": [
+    "Hiding charges in contracts",
+    "Printing balance on cards",
+    "Financial services built inside non-financial apps",
+    "Storing money in a locker"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Open banking depends mainly on…",
+   "options": [
+    "Cash vaults",
+    "Branch managers",
+    "Paper forms",
+    "Secure APIs and customer consent"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "CBDC stands for…",
+   "options": [
+    "Central Bank Digital Currency",
+    "Central Bank Deposit Certificate",
+    "Centralised Bitcoin Digital Cash",
+    "Corporate Bond Digital Contract"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "India's e-rupee pilot was launched by the…",
+   "options": [
+    "RBI",
+    "IRDAI",
+    "NPCI",
+    "SEBI"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Green FinTech is concerned with…",
+   "options": [
+    "Sustainability and ESG finance",
+    "Paper recycling",
+    "Gold trading",
+    "Agricultural loans only"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Who is traditionally credited as the author of the Arthashastra?",
+   "options": [
+    "Kalidasa",
+    "Panini",
+    "Ashoka",
+    "Kautilya (Chanakya)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "In Arthashastra, the word 'artha' primarily means…",
+   "options": [
+    "Religion",
+    "Music",
+    "Wealth / material well-being",
+    "War"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which of the seven elements (saptanga) of the state is the treasury?",
+   "options": [
+    "Mitra",
+    "Kosha",
+    "Danda",
+    "Durga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kautilya's insistence on audit and accounts corresponds to today's…",
+   "options": [
+    "Social media ads",
+    "Stock tips",
+    "Audit trails and transaction logs",
+    "Mobile games"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kautilya's use of spies (gudhapurusha) to detect fraud corresponds to…",
+   "options": [
+    "Cloud storage",
+    "Marketing automation",
+    "Customer onboarding",
+    "AML and transaction surveillance"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kautilya's concept of yogakshema (public welfare) maps to…",
+   "options": [
+    "Insider trading",
+    "Tax evasion",
+    "Financial inclusion and Direct Benefit Transfer",
+    "Speculation"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kautilya's rule on fair weights and measures maps to…",
+   "options": [
+    "Mis-selling",
+    "Hidden fees",
+    "Transparent pricing and fair practices",
+    "Opaque algorithms"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Risk arising from the interconnection of many platforms is…",
+   "options": [
+    "Systemic risk",
+    "Basis risk",
+    "Currency risk",
+    "Interest-rate risk"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fraudulent messages that trick users into revealing credentials are called…",
+   "options": [
+    "Arbitrage",
+    "Phishing",
+    "Netting",
+    "Hedging"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "India's data protection law enacted in 2023 is the…",
+   "options": [
+    "Digital Personal Data Protection Act",
+    "Contract Act",
+    "Companies Act",
+    "Banking Regulation Act"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Which of these is a digital wallet?",
+   "options": [
+    "Paytm Wallet",
+    "Fixed deposit",
+    "Demand draft",
+    "Passbook"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "UPI was launched in 2016 by…",
+   "options": [
+    "SEBI",
+    "NABARD",
+    "NPCI",
+    "PFRDA"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which is NOT a FinTech activity?",
+   "options": [
+    "Mobile payments",
+    "Robo advice",
+    "Manual paper ledger bookkeeping",
+    "Online lending"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "FinTech lowers costs mainly through…",
+   "options": [
+    "More branches",
+    "More paperwork",
+    "Manual approval",
+    "Automation and scale"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "The Financial Stability Board is…",
+   "options": [
+    "An Indian stock exchange",
+    "An international body monitoring the global financial system",
+    "A credit bureau",
+    "A payments bank"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Scalability of FinTech services is chiefly enabled by…",
+   "options": [
+    "Cloud computing and APIs",
+    "Counter staff",
+    "Printed forms",
+    "Physical vaults"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Peer-to-peer platforms…",
+   "options": [
+    "Replace the RBI",
+    "Connect lenders and borrowers directly",
+    "Print cheques",
+    "Issue insurance"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Under Kautilya's idea of danda, the modern parallel is…",
+   "options": [
+    "Product design",
+    "Free advertising",
+    "Customer rewards",
+    "Penalties and enforcement of compliance"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Customers contribute to the FinTech ecosystem by providing…",
+   "options": [
+    "Capital adequacy",
+    "Licences",
+    "Data, usage and feedback",
+    "Regulation"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Which statement best describes the FinTech ecosystem?",
+   "options": [
+    "Only mobile phone makers",
+    "Only government banks",
+    "A network of start-ups, institutions, regulators, technology firms and customers",
+    "Only cryptocurrency exchanges"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,507 @@
+{
+ "id": "4-fintech-landscape",
+ "title": "4. FinTech Landscape",
+ "subtitle": "5G · Mobile apps · Cloud · Web 2.0 · AI/ML in fraud detection · API-driven banking · Updated for AY 2026-27",
+ "questions": [
+  {
+   "q": "A key benefit of 5G for FinTech is…",
+   "options": [
+    "Low latency",
+    "Paper statements",
+    "Higher branch cost",
+    "Cash handling"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "SaaS stands for…",
+   "options": [
+    "Software as a Service",
+    "System as a Standard",
+    "Storage as a Server",
+    "Secure as a Service"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "React and Node.js are…",
+   "options": [
+    "JavaScript technologies",
+    "Banks",
+    "Regulators",
+    "Cryptocurrencies"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "ML fraud detection works by flagging…",
+   "options": [
+    "Anomalies",
+    "Holidays",
+    "Interest rates",
+    "Cheques"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "API stands for…",
+   "options": [
+    "Applied Payment Interface",
+    "Application Programming Interface",
+    "Automatic Portfolio Index",
+    "Annual Premium Instrument"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Banking-as-a-Service is an example of…",
+   "options": [
+    "API-driven banking",
+    "Barter",
+    "Cash banking",
+    "Manual KYC"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Web 2.0 is characterised by…",
+   "options": [
+    "Static pages",
+    "User-generated interactive content",
+    "Offline apps",
+    "Telegraph"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Which is a cloud service model?",
+   "options": [
+    "IaaS",
+    "UPI",
+    "AML",
+    "NEFT"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "The target latency of 5G networks is about…",
+   "options": [
+    "1 second",
+    "1 minute",
+    "1 millisecond",
+    "10 seconds"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Network slicing in 5G allows…",
+   "options": [
+    "Selling SIMs",
+    "Cutting cables",
+    "Virtual dedicated networks on shared infrastructure",
+    "Printing bills"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "NFC enables…",
+   "options": [
+    "Check printing",
+    "Large file storage",
+    "Contactless tap payments",
+    "Satellite calls"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Card tokenisation replaces the card number with…",
+   "options": [
+    "An OTP only",
+    "A unique token",
+    "A password only",
+    "A cheque"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Biometric login on smartphones uses…",
+   "options": [
+    "Branch seal",
+    "Passbook",
+    "Fingerprint or face recognition",
+    "Cheque signature"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A 'super app' is…",
+   "options": [
+    "One app offering many services",
+    "A calculator",
+    "A banking virus",
+    "A branch app"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chatbots in banking rely on…",
+   "options": [
+    "Postal mail",
+    "Manual ledgers",
+    "Branch tellers",
+    "Natural Language Processing"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Video KYC improves customer experience by…",
+   "options": [
+    "Enabling onboarding without visiting a branch",
+    "Increasing paperwork",
+    "Increasing queues",
+    "Needing cash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Cloud computing delivers computing resources…",
+   "options": [
+    "Only on paper",
+    "Only by courier",
+    "Only in banks",
+    "On demand over the internet"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Salesforce is an example of…",
+   "options": [
+    "SaaS",
+    "DaaS",
+    "PaaS",
+    "IaaS"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A virtual server rented from a provider is an example of…",
+   "options": [
+    "FaaS only",
+    "SaaS",
+    "Paper service",
+    "IaaS"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A hybrid cloud combines…",
+   "options": [
+    "Public and private clouds",
+    "Two banks",
+    "Two SIMs",
+    "Two cheques"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Elasticity in cloud means…",
+   "options": [
+    "Cables stretch",
+    "Resources scale up or down on demand",
+    "Data becomes paper",
+    "Fixed capacity"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "RBI's 2018 payment data circular requires…",
+   "options": [
+    "Data to be stored abroad",
+    "Payment data to be stored in India",
+    "No storage",
+    "Paper storage"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Web 1.0 was largely…",
+   "options": [
+    "Mobile-first",
+    "Social and interactive",
+    "Read-only static pages",
+    "Decentralised"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Web 2.0 introduced…",
+   "options": [
+    "Only static pages",
+    "Telex",
+    "Only email",
+    "User-generated, interactive content"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Web 3.0 is associated with…",
+   "options": [
+    "Telegraph",
+    "Decentralisation and semantic web",
+    "Fax",
+    "Radio"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rapid web design commonly uses responsive frameworks such as…",
+   "options": [
+    "Bootstrap",
+    "Tally",
+    "Excel",
+    "Photoshop"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "A wireframe is a…",
+   "options": [
+    "Server",
+    "Final software",
+    "Database",
+    "Basic layout sketch of a page"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "JavaScript primarily runs…",
+   "options": [
+    "In the web browser (and on servers via Node.js)",
+    "Only on ATMs",
+    "Only in banks",
+    "Only on paper"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "React is a JavaScript library originally from…",
+   "options": [
+    "Meta (Facebook)",
+    "SBI",
+    "Google",
+    "Oracle"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "JSON is a…",
+   "options": [
+    "Bank licence",
+    "Hardware chip",
+    "Lightweight data-interchange format",
+    "Cryptocurrency"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Machine learning is a subset of…",
+   "options": [
+    "Cloud only",
+    "Artificial intelligence",
+    "5G",
+    "Blockchain"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Supervised learning requires…",
+   "options": [
+    "Only paper",
+    "Labelled training data",
+    "No data",
+    "Only images"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Clustering is an example of…",
+   "options": [
+    "Cash counting",
+    "Unsupervised learning",
+    "Supervised learning",
+    "Manual audit"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A false positive in fraud detection is…",
+   "options": [
+    "A genuine transaction flagged as fraud",
+    "A fraud missed",
+    "A blocked bank",
+    "An approved loan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Neural networks are inspired by…",
+   "options": [
+    "The human brain",
+    "Telephone lines",
+    "Stock markets",
+    "Cheques"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Natural Language Processing allows machines to…",
+   "options": [
+    "Understand human language",
+    "Store cash",
+    "Mine coins",
+    "Print money"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Algorithmic trading is…",
+   "options": [
+    "Cheque trading",
+    "Automated trading using predefined rules",
+    "Barter",
+    "Manual trading only"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Explainable AI is important in finance to…",
+   "options": [
+    "Justify decisions to regulators and customers",
+    "Hide decisions",
+    "Reduce audits",
+    "Increase bias"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Deepfakes pose a FinTech risk by…",
+   "options": [
+    "Improving privacy",
+    "Reducing fraud",
+    "Lowering cost",
+    "Enabling impersonation in KYC"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Generative AI is used in banks for…",
+   "options": [
+    "Minting coins",
+    "Clearing cheques",
+    "Drafting responses and summarising documents",
+    "Printing notes"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "REST is a common style of…",
+   "options": [
+    "Cloud pricing",
+    "Card network",
+    "Tax law",
+    "API design"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "OAuth is used for…",
+   "options": [
+    "Cheque printing",
+    "Secure delegated authorisation",
+    "Currency exchange",
+    "Coin mining"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In the EU, open banking is mandated under…",
+   "options": [
+    "SEBI Act",
+    "PSD2",
+    "GDPR only",
+    "Basel I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "In India, consent-based financial data sharing is done by…",
+   "options": [
+    "Account Aggregators",
+    "Passbooks",
+    "Credit cards",
+    "ATMs"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Banking-as-a-Service lets non-banks…",
+   "options": [
+    "Issue licences",
+    "Set repo rate",
+    "Offer banking products via a partner bank's APIs",
+    "Print currency"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "A key benefit of API-driven banking is…",
+   "options": [
+    "More paperwork",
+    "Higher branch cost",
+    "Slower service",
+    "Faster partner integration"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Microservices architecture splits an application into…",
+   "options": [
+    "Small independent services",
+    "Branches",
+    "Paper files",
+    "One monolith"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "TLS is used to…",
+   "options": [
+    "Print statements",
+    "Audit cheques",
+    "Mine coins",
+    "Encrypt data in transit"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A 'webhook' is…",
+   "options": [
+    "A firewall only",
+    "A chequebook",
+    "A fishing tool",
+    "An automated message sent when an event occurs"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Which technology lets apps exchange data with banks securely?",
+   "options": [
+    "Telex",
+    "Paper forms",
+    "APIs",
+    "Fax machines"
+   ],
+   "answer": 2
+  }
+ ]
+}

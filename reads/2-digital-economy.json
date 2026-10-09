@@ -1,0 +1,43 @@
+{
+  "id": "2-digital-economy",
+  "title": "2. Digital Economy",
+  "subtitle": "India Stack · eKYC · Digital payments · Lending · Microfinance · Crowdfunding · DigiLocker case study",
+  "subject": "FinTech",
+  "sections": [
+    {
+      "id": "s1",
+      "heading": "2.1 India Stack",
+      "html": "<p style=\"color:var(--ink-soft);font-size:.92em;\"><b>Updated for Assessment Year 2026-27</b> (income of FY 2025-26, assessed under the Income-tax Act, 1961).</p>\n<p style=\"color:var(--ink-soft);font-size:.92em;\">Objectives: understand India Stack layers, digital payments, digital lending, microfinance and crowdfunding.</p>\n<p>India Stack is a set of open APIs enabling <b>presence-less, paperless, cashless</b> service delivery. It has four layers: identity (Aadhaar), payments (UPI), data (Account Aggregator / DigiLocker) and consent.</p>"
+    },
+    {
+      "id": "s2",
+      "heading": "2.2 Unique Identification and eKYC",
+      "html": "<p><b>Aadhaar</b> is a 12-digit number issued by UIDAI using biometrics and demographics. <b>eKYC</b> lets a bank verify identity by Aadhaar OTP or biometric, replacing physical documents.</p>\n<div style=\"background:var(--line-soft);border-left:4px solid var(--accent,#1a4b8c);padding:10px 14px;border-radius:6px;margin:12px 0;\"><b>Example:</b> A customer opens a Demat account in about 10 minutes with Aadhaar OTP eKYC instead of submitting photocopies.</div>"
+    },
+    {
+      "id": "s3",
+      "heading": "2.3 Digital Signature",
+      "html": "<p><b>eSign</b> allows Aadhaar-authenticated signing of documents online, legally valid under the IT Act, 2000. A <b>Digital Signature Certificate (DSC)</b> uses public-key cryptography to ensure authenticity, integrity and non-repudiation.</p>"
+    },
+    {
+      "id": "s4",
+      "heading": "2.4 Cashless Digital Payments",
+      "html": "<p>Modes: UPI, IMPS, NEFT, RTGS, cards, wallets (Paytm), AePS, BHIM and NETC FASTag. UPI links bank accounts through a Virtual Payment Address, enabling instant 24×7 transfers.</p>"
+    },
+    {
+      "id": "s5",
+      "heading": "2.5 FinTech in Lending",
+      "html": "<p>Digital lenders use alternate data (mobile usage, GST returns, bank statements) to score borrowers quickly. <b>Types:</b> peer-to-peer (RBI-regulated NBFC-P2P), marketplace lending, invoice financing, BNPL, and salary-advance loans.</p>"
+    },
+    {
+      "id": "s6",
+      "heading": "2.6 Micro Finance and Crowd Funding",
+      "html": "<p><b>Microfinance</b> provides small loans to low-income groups, typically through Self Help Groups and MFIs (e.g., SHG–Bank Linkage). <b>Crowdfunding</b> raises small sums from many people: reward-based (Ketto), donation-based, equity-based and debt-based.</p>\n<div style=\"background:var(--line-soft);border-left:4px solid var(--accent,#1a4b8c);padding:10px 14px;border-radius:6px;margin:12px 0;\"><b>Example:</b> A start-up raises ₹40 lakh from 800 small investors on an equity crowdfunding platform.</div>"
+    },
+    {
+      "id": "s7",
+      "heading": "2.7 Case Study: Use of DigiLocker",
+      "html": "<p>DigiLocker, launched in 2015, is a government cloud wallet for authentic digital documents (Aadhaar, PAN, driving licence, mark sheets). Documents issued in it have the same legal validity as originals under IT Rules, 2016. <b>Impact:</b> students share certificates with employers instantly, banks fetch KYC with consent, and paper use and forgery fall. <b>Issues:</b> digital literacy and connectivity gaps.</p>"
+    }
+  ]
+}
